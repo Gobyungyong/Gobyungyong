@@ -6,7 +6,7 @@
   <br/>
   <br/>
   
-  #### 📋 Once I've Used
+ <!-- #### 📋 Once I've Used
     
   <br/>
   
@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-   badge&logo=VisualStudioCode&logoColor=white">
 
   <br/>
-  <br/>
+  <br/> -->
   
   #### :pencil2: Study log
 
