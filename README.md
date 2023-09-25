@@ -4,14 +4,12 @@
   
   
   <div>
-    
-    Studying Web Development 2023.05 ~ 
-    </div>
+    Studying Web Development 2023.05 ~   
+  </div>
     <br/>
-    <div>
-      
-    [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=quddyddlrk)](https://velog.io/@quddyddlrk)
+  <div> 
     
+ [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=quddyddlrk)](https://velog.io/@quddyddlrk)
   </div>
   
   		
