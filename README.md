@@ -13,13 +13,13 @@
   </div>
   
   		
-  <h2 align="center"> Stack </h2>
+  <h2 align="center"> 💥 Skills </h2>
    
   
   
   <div align="center">
    <div>
-     <b> Languages</b>
+     <b> 💬 Languages</b>
    </div>
     <br/>
     <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/>  
@@ -31,7 +31,7 @@
    
    <div>
      <div>
-       <b>✔ Tools</b>
+       <b>🛠 Tools</b>
      </div> 
      <br/>
      <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=DJANGO&logoColor=white"/>
@@ -51,7 +51,7 @@
   
   <div>
     <div>
-      <b>⏳ Things I want to learn more</b>
+      <b>⏰ I'm looking forward to studying these</b>
     </div>
       <br/>
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white"/>
